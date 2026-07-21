@@ -7,9 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8F7A6B97300FD73E00C2CF21 /* codemagic.yaml in Resources */ = {isa = PBXBuildFile; fileRef = 8F7A6B96300FD73E00C2CF21 /* codemagic.yaml */; };
-		8F7A6B99300FD89500C2CF21 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 8F7A6B98300FD88F00C2CF21 /* .gitignore */; };
-		8F7D1A95300FC0B400C7FC49 /* CLAUDE.md in Resources */ = {isa = PBXBuildFile; fileRef = 8F7D1A93300FC0B000C7FC49 /* CLAUDE.md */; };
 		8FD2B81C300FD101001991DB /* HenstandAppTarget.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 8FD2B815300FD101001991DB /* HenstandAppTarget.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		8FD2B824300FD10B001991DB /* FirebaseMessaging in Frameworks */ = {isa = PBXBuildFile; productRef = 8FD2B823300FD10B001991DB /* FirebaseMessaging */; };
 		FBAA000000000000000000A2 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = FBAA000000000000000000A0 /* FirebaseAuth */; };
@@ -235,9 +232,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8F7A6B99300FD89500C2CF21 /* .gitignore in Resources */,
-				8F7D1A95300FC0B400C7FC49 /* CLAUDE.md in Resources */,
-				8F7A6B97300FD73E00C2CF21 /* codemagic.yaml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
